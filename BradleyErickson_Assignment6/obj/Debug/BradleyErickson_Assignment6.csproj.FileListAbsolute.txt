@@ -1,0 +1,10 @@
+c:\users\bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment6\BradleyErickson_Assignment6\bin\Debug\BradleyErickson_Assignment6.exe.config
+C:\Users\Bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment6\BradleyErickson_Assignment6\bin\Debug\BradleyErickson_Assignment6.exe
+C:\Users\Bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment6\BradleyErickson_Assignment6\bin\Debug\BradleyErickson_Assignment6.pdb
+C:\Users\Bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment6\BradleyErickson_Assignment6\obj\Debug\BradleyErickson_Assignment6.csprojResolveAssemblyReference.cache
+C:\Users\Bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment6\BradleyErickson_Assignment6\obj\Debug\BradleyErickson_Assignment6.NewCustomer.resources
+C:\Users\Bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment6\BradleyErickson_Assignment6\obj\Debug\BradleyErickson_Assignment6.Properties.Resources.resources
+C:\Users\Bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment6\BradleyErickson_Assignment6\obj\Debug\BradleyErickson_Assignment6.ViewExistingCustomers.resources
+C:\Users\Bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment6\BradleyErickson_Assignment6\obj\Debug\BradleyErickson_Assignment6.csproj.GenerateResource.Cache
+C:\Users\Bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment6\BradleyErickson_Assignment6\obj\Debug\BradleyErickson_Assignment6.exe
+C:\Users\Bradley\documents\visual studio 2012\Projects\BradleyErickson_Assignment6\BradleyErickson_Assignment6\obj\Debug\BradleyErickson_Assignment6.pdb
